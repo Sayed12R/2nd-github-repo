@@ -1,4 +1,8 @@
 div{
     background-color: teal;
     padding: 10px;
+    margin: 10px;
+}
+h3{
+    font-style: italic;
 }
